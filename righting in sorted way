@@ -1,10 +1,10 @@
-Start
-Accept three numbers from user (a, b, c)
-If a > b then go to step 4 else go to step 5
-Interchange a and b
-If b > c then goto step 6 else go to step 7
-Interchange b and c
-If a> b then go to step 8 else go to step 9
-Interchange a and b
-Display a, b, c
-stop
+1 : Start
+2 : Accept three numbers from user (a, b, c)
+3 : If a > b then go to 4 else go to 5
+4 : Interchange a and b
+5 : If b > c then go to 6 else go to 7
+6 : Interchange b and c
+7 : If a > b then go to 8 else go to 9
+8 : Interchange a and b
+9 : Display a, b, c
+10 :stop
